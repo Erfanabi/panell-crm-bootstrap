@@ -4,7 +4,7 @@
 
 Panel CRM
 
-- [Demo Project](https://digi-shop-liart.vercel.app/)
+- [Demo Project](https://erfanabi.github.io/panell-crm-bootstrap/)
 
 ## technology used
 
